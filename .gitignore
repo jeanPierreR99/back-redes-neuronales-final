@@ -1,0 +1,15 @@
+# Entorno virtual
+venv-fire-final/
+
+# Archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+$py.class
+
+# Archivo de registro (por ejemplo, para proyectos con registros)
+logs/
+# Archivos de configuración específicos de tu entorno (personaliza según sea necesario)
+.env
